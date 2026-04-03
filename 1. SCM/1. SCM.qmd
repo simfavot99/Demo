@@ -16,3 +16,5 @@ summary(model)
 ```
 
 Interpretation:
+As you can see, there are different coefficients.
+Also

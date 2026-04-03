@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+# Ignore local data
+
+# Hide SCM file
+1. SCM/1. SCM.qmd
